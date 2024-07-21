@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eclosmi.github.io/sitemap
+Sitemap: https://eclosmi.github.io/app/sitemap
+Sitemap: https://eclosmi.github.io/assets/sitemap
+Sitemap: https://eclosmi.github.io/css/sitemap
+Sitemap: https://eclosmi.github.io/includes/sitemap
+Sitemap: https://eclosmi.github.io/item/sitemap
+Sitemap: https://eclosmi.github.io/src/sitemap
